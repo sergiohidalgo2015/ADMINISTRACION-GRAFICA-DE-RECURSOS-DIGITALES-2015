@@ -46,3 +46,9 @@ nav ul li a:hover {
 	background-color: #fff;
 	color:#3179d4;
 }
+
+div.banner {
+	width:671px;
+	height:346px;
+	margin:0 auto;
+}
