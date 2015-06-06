@@ -3,3 +3,34 @@ body {
 	background-repeat: repeat-x;
 	background-color: #014b61;
 }
+
+nav {
+	margin-top:25px;
+	margin-left:auto;
+	margin-right: auto;
+	width:671px;
+	height:38px; 
+}
+
+nav ul {
+	list-style: none;
+	padding:0;
+}
+
+nav ul li {
+	display: block;
+	float:left;
+	width:121px;
+	height:38px;
+}
+
+nav ul li a {
+	display: block;
+	width:121px;
+	height:38px;
+	text-align: center;
+}
+
+nav ul li a:hover {
+	background-color: #fff;
+}
